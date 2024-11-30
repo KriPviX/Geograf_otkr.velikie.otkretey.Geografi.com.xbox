@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(38, 39, 79);
+    color: aqua;
+}
+.heaeder{
+    text-align: center;
+}
+.content{
+    border: 1px solid rgb(29, 14, 236);
+}
+.p{
+    color: #0b45e2;
+}
